@@ -111,6 +111,7 @@ section {
   margin-top: 20px;
   position: relative;
   min-height: 100vh;
+  max-width: 100vh;
   
 }
 
